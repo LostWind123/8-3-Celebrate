@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffcc99;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p {
+    font-size: 24px;
+    text-align: justify;
+}
+
+img {
+    margin-top: 20px;
+    border: 5px solid #ffcc99;
+}
+
+footer {
+    background-color: #ffcc99;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
